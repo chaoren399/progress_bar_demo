@@ -1,0 +1,8 @@
+1运行
+
+进入到程序目录. 运行.
+python manage.py runserver 127.0.0.1:8082
+
+2. python 环境
+
+Django==1.8.2
