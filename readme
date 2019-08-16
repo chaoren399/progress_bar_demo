@@ -9,3 +9,7 @@ python manage.py runserver 127.0.0.1:8082
 2. python 环境
 
 Django==1.8.2
+
+3.界面如图:
+
+https://blog.csdn.net/chaoren499/article/details/97135142
